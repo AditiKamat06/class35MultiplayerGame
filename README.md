@@ -1,1 +1,2 @@
-# class35MultiplayerGame
+# synchronousBallMovement
+Ball moving synchronously
